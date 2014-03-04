@@ -14,11 +14,11 @@ The map url can be generated in JOSM by double-clicking in the lower left corner
 
 A couple of **labels** have been added for categorizing the issues:
 
-* AMAT graph errors: the AMAT graph is wrong and must be replaced by OSM. Usually, OSM ways should get a loc_ref=-1 in this case.
-* In doubt AMAT/OSM: OSM and AMAT graphs are discordant, and there's no way to understand which one is right from the base data we have.
-* Insufficient data: we don't have enough information on the area we are working in.
-* tags: there is a problem or doubt using an OSM tag.
-* Validation warnings: validation warnings are issued.
+* **AMAT graph errors**: the AMAT graph is wrong and must be replaced by OSM. Usually, OSM ways should get a loc_ref=-1 in this case.
+* **In doubt** AMAT/OSM: OSM and AMAT graphs are discordant, and there's no way to understand which one is right from the base data we have.
+* **Insufficient data**: we don't have enough information on the area we are working in.
+* **tags**: there is a problem or doubt using an OSM tag.
+* **Validation warnings**: validation warnings are issued.
 
 The labels can be used in combination also.
 
