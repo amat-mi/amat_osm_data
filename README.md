@@ -6,7 +6,7 @@ For now this repository is mainly used as reporting tool for the issues on road 
 
 ## (Geo)Issue tracking system
 
-We rely on GitHub issues for signaling that something is wrond with AMAT graph, OSM graph or both.
+We rely on GitHub issues for signaling that something is wrong with AMAT graph, OSM graph or both.
 
 Just click on "Issues" and create a new issue. The issue body can be organized as a bulleted list with a brief description followed by the map url.
 
@@ -27,4 +27,3 @@ See an example: https://github.com/amat-mi/amat_osm_data/issues/1
 Issues can be referenced from one another using #issue_number.
 
 A single issue should be a task which can be completed in half an hour. Please avoid cramming too much problems in the same task. If necessary, split complex tasks into groups or simpler tasks, which can be linked using #task_number.
-
